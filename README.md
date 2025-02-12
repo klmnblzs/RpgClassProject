@@ -1,2 +1,1 @@
-# rpg_radnoti
-RPG Radnóti Játék
+# A small & amateur CLI RPG game project for my class
